@@ -1,10 +1,10 @@
-package healpg
+package goheapix
 
 import (
 	"math"
 )
 
-//heapixgo Healpix Go port from: chealpix(http://healpix.sourceforge.net/index.php)
+//goheapix Healpix Go port from: chealpix(http://healpix.sourceforge.net/index.php)
 
 //Vec2Ang (x, y, z) -> (θ, φ)
 func Vec2Ang(v [3]float64) (θ, φ float64) {

@@ -1,7 +1,7 @@
-# Healpix ported in golang
+# gohealpix: Healpix ported in golang
 
-from: chealpix(http://healpix.sourceforge.net/index.php)
+From: [chealpix](http://healpix.sourceforge.net/index.php)
 
-## Function:
+## Function
 
-[godoc](https://godoc.org/github.com/hebl/healpg)
+[pkg.go.dev](https://pkg.go.dev/github.com/hebl/gohealpix)

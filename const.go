@@ -1,4 +1,4 @@
-package healpg
+package goheapix
 
 const (
 	twothird = 2.0 / 3.0

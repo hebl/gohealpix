@@ -1,4 +1,4 @@
-package healpg
+package goheapix
 
 import (
 	"fmt"
